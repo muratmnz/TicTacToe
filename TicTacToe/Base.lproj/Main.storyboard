@@ -27,18 +27,27 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain"/>
+                                                <connections>
+                                                    <action selector="pressBoardAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TDh-gA-njs"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZUg-pq-rpL" userLabel="A2">
                                                 <rect key="frame" x="119.66666666666669" y="0.0" width="114.33333333333331" height="114.66666666666667"/>
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain"/>
+                                                <connections>
+                                                    <action selector="pressBoardAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aEc-fG-ISn"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jbQ-CP-aWZ" userLabel="A3">
                                                 <rect key="frame" x="239.00000000000003" y="0.0" width="114.66666666666666" height="114.66666666666667"/>
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain"/>
+                                                <connections>
+                                                    <action selector="pressBoardAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ScV-Z7-JnA"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -50,18 +59,27 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain"/>
+                                                <connections>
+                                                    <action selector="pressBoardAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Vwx-Hm-0VT"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hUD-IN-fxp" userLabel="B2">
                                                 <rect key="frame" x="119.66666666666669" y="0.0" width="114.33333333333331" height="114.33333333333333"/>
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain"/>
+                                                <connections>
+                                                    <action selector="pressBoardAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="EGS-Hq-OB4"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XL2-c4-GIh" userLabel="B3">
                                                 <rect key="frame" x="239.00000000000003" y="0.0" width="114.66666666666666" height="114.33333333333333"/>
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain"/>
+                                                <connections>
+                                                    <action selector="pressBoardAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mjJ-vd-EEx"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -73,18 +91,27 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain"/>
+                                                <connections>
+                                                    <action selector="pressBoardAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="EA0-Es-T5g"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LZa-nx-ZMa" userLabel="C2">
                                                 <rect key="frame" x="119.66666666666669" y="0.0" width="114.33333333333331" height="114.66666666666667"/>
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain"/>
+                                                <connections>
+                                                    <action selector="pressBoardAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="L5q-F6-285"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="saB-sH-hnl" userLabel="C3">
                                                 <rect key="frame" x="239.00000000000003" y="0.0" width="114.66666666666666" height="114.66666666666667"/>
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain"/>
+                                                <connections>
+                                                    <action selector="pressBoardAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="C55-29-Dyy"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -121,6 +148,15 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="a1" destination="pa8-Vl-hBl" id="60T-ns-Ygh"/>
+                        <outlet property="a2" destination="ZUg-pq-rpL" id="qZg-xC-PDn"/>
+                        <outlet property="a3" destination="jbQ-CP-aWZ" id="9Iu-xd-5c3"/>
+                        <outlet property="b1" destination="lbi-Ys-VMF" id="HFr-d1-cY8"/>
+                        <outlet property="b2" destination="hUD-IN-fxp" id="GEc-ti-4fM"/>
+                        <outlet property="b3" destination="XL2-c4-GIh" id="X0z-bZ-tHz"/>
+                        <outlet property="c1" destination="hVw-FV-n2r" id="2jq-7M-3gl"/>
+                        <outlet property="c2" destination="LZa-nx-ZMa" id="z6a-6Y-mK0"/>
+                        <outlet property="c3" destination="saB-sH-hnl" id="UXE-nX-t7e"/>
                         <outlet property="turnLabel" destination="QpY-oa-rMt" id="RXh-Rc-VSe"/>
                     </connections>
                 </viewController>
